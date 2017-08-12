@@ -17,3 +17,10 @@ cabal.sandbox.config
 *.eventlog
 .stack-work/
 cabal.project.local
+*.cmi
+*.cmo
+*.output
+lexer.ml
+parser.ml
+parser.mli
+
